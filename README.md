@@ -11,4 +11,4 @@ This browser extension provides a continuous playback experience by automaticall
 3. Click on "Load unpacked" and select the directory where your extension's source code is located.
 4. Go to YouTube and open a video.
 5. "Click the loop icon to continuously play the video."
-![Extension Screenshot](img/screenshot.jpg)
+![Extension Screenshot](img/Screenshot.jpg)
